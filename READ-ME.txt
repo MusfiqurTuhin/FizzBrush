@@ -1,4 +1,4 @@
-  =>  Template Name    : Terapia - Physical Therapy Website Template
+  =>  Template Name    : FizzBrush
 
   =>  Template Link    : https://htmlcodex.com/physical-therapy-website-template
 
